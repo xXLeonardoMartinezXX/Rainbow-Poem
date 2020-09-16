@@ -1,2 +1,2 @@
 # Rainbow-Poem
-This is a repor for y poem xd
+This is a repo for my poem xd
