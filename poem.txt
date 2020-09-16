@@ -4,4 +4,5 @@ prange
 red
 green
 pink
+blue
 These are the colors of the rainbow.
